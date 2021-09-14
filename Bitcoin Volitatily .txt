@@ -1,0 +1,48 @@
+﻿Title:
+Bitcoin Volatility
+
+
+Members:
+Mike Ryu
+Tyler Ingebrigtsen
+Jeses Parra
+
+
+Project Outline:
+We are determining the viability of bitcoin in the U.S. in relations to Canada and Mexico’s local currency. 
+
+
+Questions:
+What is the volatility of Bitcoin in comparison to each country’s local currency?
+
+
+How accessible is Bitcoin in each country? 
+
+
+Is there a cap on the amount for purchase in each country?
+
+
+What is the correlation between accessibility of Bitcoin and GDP in each country?
+
+
+Data Sets:
+
+
+Coin Radar API (# of ATMs in US)
+https://rapidapi.com/CoinATMRadar/api/bitcoin-atms 
+
+
+Bitcoin Historics: (5 year historic values)
+https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory?select=coin_Bitcoin.csv
+
+
+Currency Convertor 
+https://exchangeratesapi.io/ 
+
+
+Gameplan:
+Set up API 
+Import libraries 
+Import data sets
+Set up dataframe
+Code to the moon
